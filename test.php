@@ -1,3 +1,4 @@
 <?php 
-echo "hello world of github.com";
+echo "this file changed";
+echo "12.04.2012";
 ?>
